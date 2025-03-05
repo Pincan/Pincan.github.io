@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Pincan Zhao"
 description              : "PhD Candidate with School of Information Technology at Carleton University and School of Telecommunications Engineering at Xidian University"
-repository               : "Pincan/Pincan.github.io"
+repository               : "Pincan/pincanzhao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Pincan Zhao"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Carleton University & Xidian University"
+  avatar           : "images/Pincan_SanyaCN_202412.jpg"
+  bio              : "Ph.D. Candidate @CU&XDU"
   location         : "Ottawa, Canada"
   employer         :
   pubmed           : 
