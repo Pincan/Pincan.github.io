@@ -37,18 +37,17 @@ Feel free to reach me via pincanzhao at foxmail dot com (preferred) or pincanzha
 
 ## Journal Papers
 
-- [TITS 2025] **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, [An Enhanced 3D Sensor Deployment Method for Intelligent Cooperative Sensing in Connected and Autonomous Vehicles](https://doi.org/10.1109/TITS.2025.3530861)
+- [TITS 2025] **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, [An Enhanced 3D Sensor Deployment Method for Intelligent Cooperative Sensing in Connected and Autonomous Vehicles](https://doi.org/10.1109/TITS.2025.3530861)，**IEEE TITS 2025**
 
-- [IoTJ 2025] **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, [Intelligent Cooperative Sensing for Connected and Autonomous Vehicles: An Improved Decision Transformer Approach](https://doi.org/10.1109/JIOT.2025.3530857)
+- [IoTJ 2025] **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, [Intelligent Cooperative Sensing for Connected and Autonomous Vehicles: An Improved Decision Transformer Approach](https://doi.org/10.1109/JIOT.2025.3530857)，**IEEE IoTJ 2025**
 
-
-- **Pincan Zhao**, Changle Li, Yuchuan Fu, Yilong Hui, Yao Zhang, and Nan Cheng, [Blockchain-Enabled Conditional Decentralized Vehicular Crowdsensing System](https://doi.org/10.1109/TITS.2022.3166216)
+- **Pincan Zhao**, Changle Li, Yuchuan Fu, Yilong Hui, Yao Zhang, and Nan Cheng, [Blockchain-Enabled Conditional Decentralized Vehicular Crowdsensing System](https://doi.org/10.1109/TITS.2022.3166216)，**IEEE TITS 2022**
 
 - **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, [Cooperative Sensing for Connected and Autonomous Vehicles: An Intelligence-Guided Rewardless Reinforcement Learning Method](https://ieeexplore.ieee.org/),  **IEEE TVT 2025** (Accepted with Minor Revision)
 
 - Xuelian Cai, **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, [Enhancing Federated Learning in Connected and Autonomous Vehicles through Cost Optimization and Advanced Model Selection](https://ieeexplore.ieee.org/),  **IEEE TITS 2025** (Accept)
   
-- Xinrui Zhang, **Pincan Zhao***, and Jason Jaskolka, [Navigating the DevOps Landscape](https://doi.org/10.1016/j.jss.2024.112331), **Journal of Systems and Software 2025** (Early Access)
+- Xinrui Zhang, **Pincan Zhao***, and Jason Jaskolka, [Navigating the DevOps Landscape](https://doi.org/10.1016/j.jss.2024.112331), **Journal of Systems and Software 2025**
 
 - **Pincan Zhao**, Yuchuan Fu, and Changle Li, [Architecture of Privacy-Preserving Crowdsensing System for Internet of Vehicles](https://doi.org/10.3969/j.issn.1006-1010.2021.06.006), **Mobile Communications 2021**
 
@@ -82,56 +81,9 @@ Feel free to reach me via pincanzhao at foxmail dot com (preferred) or pincanzha
 - **Outstanding Graduate Award**, China University of Petroleum, 2019
 - **Merit-based Scholarship** (Four Consecutive Years), China University of Petroleum, 2015 - 2019
 
-<!--
-# 📖 Education
-- *Sep. 2022 - Present*, Ph.D. Information Technology, Carleton University, Ottawa, Canada
-  - Advisor: Prof. Fei Richard Yu & Prof. Richard Dansereau
-  - Thesis: Intelligent Cooperative Sensing for Connected and Autonomous Vehicles
-- *Sep. 2019 - Present*, Ph.D. Engineering of Information and Telecommunication, Xidian University, Xi'an, China
-  - Advisor: Prof. Changle Li
-  - Thesis: Research on Secure Cooperative Sensing Sharing for Connected and Autonomous Vehicles
-- *Sep. 2015 - Jun. 2019*, B. Eng. Telecommunication Engineering, China University of Petroleum, Qingdao, China
-
-# 💬 Research & Projects
-
-## Intelligent Cooperative Sensing Architectures for CAVs
-- Developed novel 3D sensor deployment strategies achieving 30% improvement in sensing coverage
-- Designed comprehensive intelligence-guided reinforcement learning frameworks
-- Integrated multi-source sensor data to enhance perception accuracy and reliability
-- Published findings in prestigious IEEE journals including IEEE TITS, TVT, and IoT Journal
-- Received Best Paper Award at DIVANet'23 for innovative sensor deployment methodology
-
-## Secure Data Sharing in Vehicular Networks
-- Developed conditional decentralized architecture integrating blockchain with centralized control
-- Implemented smart contracts for reputation management and privacy preservation
-- Achieved effective user quality assessment while maintaining strict privacy protection
-- Created innovative targeted information dissemination algorithms for intelligent transportation
-- Results led to multiple patents and established new methodologies for privacy-preserving systems
-
-## Game-Theoretic Incentive Mechanisms for Cooperative Sensing
-- Spearheaded research on supervision-based frameworks for cooperative sensing in CAVs
-- Optimized sensing resource allocation and data sharing efficiency
-- Designed federated learning systems incorporating cost optimization algorithms
-- Implemented blockchain-based vehicular sensing-sharing protocols
-- Received Best Paper Award at FCN'24 for innovative incentive mechanism design
--->
 
 # 💻 Professional Service
 - **Reviewer for Journals**: IEEE TITS (2021 - Present), IEEE TVT (2020 - Present), IEEE IoTJ (2021 - Present), IEEE TMC (2022, 2023)
 - **Reviewer for Conferences**: IEEE ICC (2021, 2023), IEEE GlobeCom (2022 - 2024), IEEE VTC (2021 - Present)
 - **TPC Member**: IEEE VTC, 2022 - Present
 - **IEEE Student Member**: 2020 - Present
-
-<!--
-# 🎓 Teaching Experience
-- **Teaching Assistant**, Circuit and Analysis, Xidian University & Heriot-Watt University Joint Program, Sep. 2021 - Feb. 2022
-- **Guest Lecturer**, Internet of Things Technologies, China University of Petroleum, Mar. 2019 - Jun. 2019
-
-# 📞 Contact
-- **Email**: pincanzhao@foxmail.com (preferred) / pincanzhao@cmail.carleton.ca / pincanzhao@stu.xidian.edu.cn
-- **Phone**: +1-613-219-5135
-- **Address**: 
-  - 1125 Colonel By Dr., Ottawa, ON K1S 5B6, Canada
-  - No.2 South Taibai Rd., Xi'an, Shaanxi 710071, China
-- **LinkedIn**: [Pincan Zhao](https://www.linkedin.com/in/pincan-zhao-53b251200/)
--->
