@@ -87,3 +87,5 @@ Feel free to reach me via pincanzhao at foxmail dot com (preferred) or pincanzha
 - **Reviewer for Conferences**: IEEE ICC (2021, 2023), IEEE GlobeCom (2022 - 2024), IEEE VTC (2021 - Present)
 - **TPC Member**: IEEE VTC, 2022 - Present
 - **IEEE Student Member**: 2020 - Present
+
+<p style="text-align:center">Last updated: 05 Mar. 2025 </p>
