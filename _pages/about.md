@@ -25,7 +25,7 @@ Before (Sep. 2015 - Jun. 2019), I completed my Bachelor degree in Communication 
 
 My research interests span the intersection of intelligent transportation systems, artificial intelligence, and security, focusing on developing innovative solutions for next-generation transportation. Current research directions emphasize efficient and secure cooperative sensing frameworks for connected and autonomous vehicles (CAVs), leveraging advanced machine learning techniques and privacy-preserving mechanisms.
 
-Feel free to reach me via pincanzhao@foxmail.com (preferred) or pincanzhao@cmail.carleton.ca.
+Feel free to reach me via pincanzhao at foxmail dot com (preferred) or pincanzhao at cmail dot carleton dot ca.
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 Our paper "A Supervision Game-Theoretic Incentive Mechanism for Cooperative Sensing in Connected and Autonomous Vehicles" received the Best Paper Award at FCN 2024!
@@ -37,64 +37,38 @@ Feel free to reach me via pincanzhao@foxmail.com (preferred) or pincanzhao@cmail
 
 ## Journal Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS 2025</div><img src='images/cooperative_sensing.png' alt="Cooperative Sensing" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [TITS 2025] **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, [An Enhanced 3D Sensor Deployment Method for Intelligent Cooperative Sensing in Connected and Autonomous Vehicles](https://doi.org/10.1109/TITS.2025.3530861)
 
-[An Enhanced 3D Sensor Deployment Method for Intelligent Cooperative Sensing in Connected and Autonomous Vehicles](https://doi.org/10.1109/TITS.2025.3530861)
+- [IoTJ 2025] **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, [Intelligent Cooperative Sensing for Connected and Autonomous Vehicles: An Improved Decision Transformer Approach](https://doi.org/10.1109/JIOT.2025.3530857)
 
-**Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu
 
-- Developed novel 3D sensor deployment strategies that achieved 30% improvement in sensing coverage for CAVs.
-- Designed comprehensive intelligence-guided frameworks integrating multi-source sensor data.
-</div>
-</div>
+- **Pincan Zhao**, Changle Li, Yuchuan Fu, Yilong Hui, Yao Zhang, and Nan Cheng, [Blockchain-Enabled Conditional Decentralized Vehicular Crowdsensing System](https://doi.org/10.1109/TITS.2022.3166216)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoT Journal 2025</div><img src='images/decision_transformer.png' alt="Decision Transformer" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, [Cooperative Sensing for Connected and Autonomous Vehicles: An Intelligence-Guided Rewardless Reinforcement Learning Method](https://ieeexplore.ieee.org/),  **IEEE TVT 2025** (Accepted with Minor Revision)
 
-[Intelligent Cooperative Sensing for Connected and Autonomous Vehicles: An Improved Decision Transformer Approach](https://doi.org/10.1109/JIOT.2025.3530857)
+- Xuelian Cai, **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, [Enhancing Federated Learning in Connected and Autonomous Vehicles through Cost Optimization and Advanced Model Selection](https://ieeexplore.ieee.org/),  **IEEE TITS 2025** (Accept)
+  
+- Xinrui Zhang, **Pincan Zhao***, and Jason Jaskolka, [Navigating the DevOps Landscape](https://doi.org/10.1016/j.jss.2024.112331), **Journal of Systems and Software 2025** (Early Access)
 
-**Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu
-
-- Pioneered an improved decision transformer approach for cooperative sensing.
-- Incorporated attention mechanisms and sequential learning to optimize real-time sensor data processing.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TITS 2022</div><img src='images/blockchain.png' alt="Blockchain" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Blockchain-Enabled Conditional Decentralized Vehicular Crowdsensing System](https://doi.org/10.1109/TITS.2022.3166216)
-
-**Pincan Zhao**, Changle Li, Yuchuan Fu, Yilong Hui, Yao Zhang, and Nan Cheng
-
-- Developed a novel conditional decentralized architecture for data sharing system.
-- Integrated blockchain technology with centralized control mechanisms to enhance privacy protection.
-</div>
-</div>
-
-- [Cooperative Sensing for Connected and Autonomous Vehicles: An Intelligence-Guided Rewardless Reinforcement Learning Method](https://ieeexplore.ieee.org/), **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, **IEEE TVT 2025** (Accepted with Minor Revision)
-- [Enhancing Federated Learning in Connected and Autonomous Vehicles through Cost Optimization and Advanced Model Selection](https://ieeexplore.ieee.org/), Xuelian Cai, **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, **IEEE TITS 2025** (Accept)
-- [Navigating the DevOps Landscape](https://doi.org/10.1016/j.jss.2024.112331), Xinrui Zhang, **Pincan Zhao***, and Jason Jaskolka, **Journal of Systems and Software 2025** (Early Access)
-- [Architecture of Privacy-Preserving Crowdsensing System for Internet of Vehicles](https://doi.org/10.3969/j.issn.1006-1010.2021.06.006), **Pincan Zhao**, Yuchuan Fu, and Changle Li, **Mobile Communications 2021**
+- **Pincan Zhao**, Yuchuan Fu, and Changle Li, [Architecture of Privacy-Preserving Crowdsensing System for Internet of Vehicles](https://doi.org/10.3969/j.issn.1006-1010.2021.06.006), **Mobile Communications 2021**
 
 ## Conference Papers
 
-- [A Supervision Game-Theoretic Incentive Mechanism for Cooperative Sensing in Connected and Autonomous Vehicles](https://ieeexplore.ieee.org/), **Pincan Zhao**, Changle Li, F. Richard Yu, Yuchuan Fu, and Mengqiu Tian, **FCN 2024** (**Best Paper Award**)
-- [Enhancing Security and Efficiency in Vehicle-to-Sensor Authentication: A Multi-Factor Approach with Cloud Assistance](https://ieeexplore.ieee.org/), Xinrui Zhang, **Pincan Zhao***, and Jason Jaskolka, **TrustCom 2024** (Acceptance Rate: 20%)
-- [Enhancing Security and Privacy in Connected and Autonomous Vehicles: A Post-Quantum Revocable Ring Signature Approach](https://ieeexplore.ieee.org/), Qingmei Yang, **Pincan Zhao**, Yuchuan Fu, and F. Richard Yu, **TrustCom 2024** (Acceptance Rate: 20%)
-- [Enhanced 3D Sensor Deployment Method for Cooperative Sensing in Connected and Autonomous Vehicles](https://doi.org/10.1145/3616392.362470), **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, **DIVANet 2023** (**Best Paper Award**)
-- [A Dynamic Spatiotemporal Prediction Method for Urban Network Traffic](https://doi.org/10.1109/VTC2022-Fall57202.2022.10012998), Zhenyu Li, Yuchuan Fu, **Pincan Zhao**, Changle Li, **VTC2022-Fall 2022**
-- [Autonomous Braking Algorithm for Rear-End Collision via Communication-Efficient Federated Learning](https://doi.org/10.1109/GLOBECOM46510.2021.9685298), Sha Liu, Yuchuan Fu, **Pincan Zhao**, Fan Li and Changle Li, **GLOBECOM 2021**
-- [Blockchain-Enabled Targeted Information Dissemination Framework for Transportation](https://doi.org/10.1109/VTC2020-Fall49728.2020.9348576), **Pincan Zhao**, Yuchuan Fu, Fan Li, Peiang Zuo, Hehe Zhang, and Changle Li, **VTC2020-Fall 2020**
+- **Pincan Zhao**, Changle Li, F. Richard Yu, Yuchuan Fu, and Mengqiu Tian, [A Supervision Game-Theoretic Incentive Mechanism for Cooperative Sensing in Connected and Autonomous Vehicles](https://ieeexplore.ieee.org/), **FCN 2024** (**Best Paper Award**)
+- Xinrui Zhang, **Pincan Zhao***, and Jason Jaskolka, [Enhancing Security and Efficiency in Vehicle-to-Sensor Authentication: A Multi-Factor Approach with Cloud Assistance](https://ieeexplore.ieee.org/), **TrustCom 2024** (Acceptance Rate: 20%)
+- Qingmei Yang, **Pincan Zhao**, Yuchuan Fu, and F. Richard Yu, [Enhancing Security and Privacy in Connected and Autonomous Vehicles: A Post-Quantum Revocable Ring Signature Approach](https://ieeexplore.ieee.org/), **TrustCom 2024** (Acceptance Rate: 20%)
+- **Pincan Zhao**, Changle Li, F. Richard Yu, and Yuchuan Fu, [Enhanced 3D Sensor Deployment Method for Cooperative Sensing in Connected and Autonomous Vehicles](https://doi.org/10.1145/3616392.362470), **DIVANet 2023** (**Best Paper Award**)
+- Zhenyu Li, Yuchuan Fu, **Pincan Zhao**, and Changle Li, [A Dynamic Spatiotemporal Prediction Method for Urban Network Traffic](https://doi.org/10.1109/VTC2022-Fall57202.2022.10012998), **VTC2022-Fall 2022**
+- Sha Liu, Yuchuan Fu, **Pincan Zhao**, Fan Li and Changle Li, [Autonomous Braking Algorithm for Rear-End Collision via Communication-Efficient Federated Learning](https://doi.org/10.1109/GLOBECOM46510.2021.9685298), **GLOBECOM 2021**
+- **Pincan Zhao**, Yuchuan Fu, Fan Li, Peiang Zuo, Hehe Zhang, and Changle Li, [Blockchain-Enabled Targeted Information Dissemination Framework for Transportation](https://doi.org/10.1109/VTC2020-Fall49728.2020.9348576), **VTC2020-Fall 2020**
 
 ## Patents
 
-- Method for Sensor Data Processing and Transmission Decision in Complementary Sensing for Internet of Vehicles, Xuelian Cai, **Pincan Zhao**, Changle Li, and Xiaojian Niu, China Patent Application, 202510118719.3, Jan. 24, 2025
-- A 3D Roadside Sensor Deployment Method for Cooperative Sensing in Internet of Vehicles, Changle Li, **Pincan Zhao**, Yuchuan Fu, and Xiaojian Niu, China Patent Application, 202411185137.9, Aug. 27, 2024
-- A Zero-Knowledge Proof-Based Privacy Protection Method for Blockchain Crowdsensing Systems, Changle Li, **Pincan Zhao**, Yuchuan Fu, and Fan Li, China Patent, CN114760067B, Sept. 12, 2023
-- [Hybrid Decision-making Method and Device for Autonomous Driving and Computer Storage Medium](https://patents.google.com/patent/US20220388540A1/en), Yuchuan Fu, Changle Li, and **Pincan Zhao**, U.S. Patent, US20220388540A1, Dec. 08, 2022
-- [Method for Sharing Models among Autonomous Vehicles Based on Blockchain](https://patents.google.com/patent/US11509472B2/en), Changle Li, Fan Li, Yuchuan Fu, and **Pincan Zhao**, U.S. Patent, US17155057, Nov. 22, 2022
+- Xuelian Cai, **Pincan Zhao**, Changle Li, and Xiaojian Niu, Method for Sensor Data Processing and Transmission Decision in Complementary Sensing for Internet of Vehicles, China Patent Application, 202510118719.3, Jan. 24, 2025
+- Changle Li, **Pincan Zhao**, Yuchuan Fu, and Xiaojian Niu, A 3D Roadside Sensor Deployment Method for Cooperative Sensing in Internet of Vehicles, China Patent Application, 202411185137.9, Aug. 27, 2024
+- Changle Li, **Pincan Zhao**, Yuchuan Fu, and Fan Li, A Zero-Knowledge Proof-Based Privacy Protection Method for Blockchain Crowdsensing Systems, China Patent, CN114760067B, Sept. 12, 2023
+- Yuchuan Fu, Changle Li, and **Pincan Zhao**, [Hybrid Decision-making Method and Device for Autonomous Driving and Computer Storage Medium](https://patents.google.com/patent/US20220388540A1/en), U.S. Patent, US20220388540A1, Dec. 08, 2022
+- Changle Li, Fan Li, Yuchuan Fu, and **Pincan Zhao**, [Method for Sharing Models among Autonomous Vehicles Based on Blockchain](https://patents.google.com/patent/US11509472B2/en), U.S. Patent, US17155057, Nov. 22, 2022
 
 # 🎖 Honors and Awards
 - **Best Paper Award**, Proceedings of 2024 IEEE International Conference on FCN, 2024
@@ -108,6 +82,7 @@ Feel free to reach me via pincanzhao@foxmail.com (preferred) or pincanzhao@cmail
 - **Outstanding Graduate Award**, China University of Petroleum, 2019
 - **Merit-based Scholarship** (Four Consecutive Years), China University of Petroleum, 2015 - 2019
 
+<!--
 # 📖 Education
 - *Sep. 2022 - Present*, Ph.D. Information Technology, Carleton University, Ottawa, Canada
   - Advisor: Prof. Fei Richard Yu & Prof. Richard Dansereau
@@ -139,6 +114,7 @@ Feel free to reach me via pincanzhao@foxmail.com (preferred) or pincanzhao@cmail
 - Designed federated learning systems incorporating cost optimization algorithms
 - Implemented blockchain-based vehicular sensing-sharing protocols
 - Received Best Paper Award at FCN'24 for innovative incentive mechanism design
+-->
 
 # 💻 Professional Service
 - **Reviewer for Journals**: IEEE TITS (2021 - Present), IEEE TVT (2020 - Present), IEEE IoTJ (2021 - Present), IEEE TMC (2022, 2023)
@@ -146,6 +122,7 @@ Feel free to reach me via pincanzhao@foxmail.com (preferred) or pincanzhao@cmail
 - **TPC Member**: IEEE VTC, 2022 - Present
 - **IEEE Student Member**: 2020 - Present
 
+<!--
 # 🎓 Teaching Experience
 - **Teaching Assistant**, Circuit and Analysis, Xidian University & Heriot-Watt University Joint Program, Sep. 2021 - Feb. 2022
 - **Guest Lecturer**, Internet of Things Technologies, China University of Petroleum, Mar. 2019 - Jun. 2019
@@ -157,3 +134,4 @@ Feel free to reach me via pincanzhao@foxmail.com (preferred) or pincanzhao@cmail
   - 1125 Colonel By Dr., Ottawa, ON K1S 5B6, Canada
   - No.2 South Taibai Rd., Xi'an, Shaanxi 710071, China
 - **LinkedIn**: [Pincan Zhao](https://www.linkedin.com/in/pincan-zhao-53b251200/)
+-->
