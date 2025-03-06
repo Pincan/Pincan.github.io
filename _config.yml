@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Pincan Zhao"
 description              : "Carleton University & Xidian University"
-repository               : "Pincan/pincanzhao.github.io"
+repository               : "pincanzhao/pincanzhao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
