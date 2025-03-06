@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Pincan Zhao"
-description              : "PhD Candidate with School of Information Technology at Carleton University and School of Telecommunications Engineering at Xidian University"
-repository               : "Pincan/Pincan.github.io"
+description              : "Carleton University & Xidian University"
+repository               : "Pincan/pincanzhao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CGkJfZgAAAAJ"
   email            : "pincanzhao@foxmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Pincan-Zhao?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Pincan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "Pincan Zhao"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-7393-5016"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
